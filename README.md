@@ -8,9 +8,11 @@
 7. Da quanti dipartimenti è composta l'università? (12)
 8. Quanti sono gli insegnanti che non hanno un numero di telefono? (50)
 
-9. Inserire nella tabella degli studenti un nuovo record con i propri dati (per il campodegree_id, inserire un valore casuale)
-10. Cambiare il numero dell’ufficio del professor Pietro Rizzo in 126
-11. Eliminare dalla tabella studenti il record creato precedentemente al punto 9
+*QUERIES GROUP BY*
+1. Contare quanti iscritti ci sono stati ogni anno
+2. Contare gli insegnanti che hanno l'ufficio nello stesso edificio
+3. Calcolare la media dei voti di ogni appello d'esame
+4. Contare quanti corsi di laurea ci sono per ogni dipartimento
 
 
 *Proggettazione DB*
